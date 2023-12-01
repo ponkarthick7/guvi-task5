@@ -1,0 +1,11 @@
+const sampleJSON = {
+  "name": "John Doe",
+  "age": 30,
+  "city": "New York",
+  "skills": ["JavaScript", "HTML", "CSS"],
+  "isActive": true
+};
+console.log("\nUsing forEach loop:");
+Object.entries(sampleJSON).forEach(([key, value]) => {
+  console.log(`${key}: ${value}`);
+});

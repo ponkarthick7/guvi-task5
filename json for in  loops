@@ -1,0 +1,11 @@
+const sampleJSON = {
+  "name": "John Doe",
+  "age": 30,
+  "city": "New York",
+  "skills": ["JavaScript", "HTML", "CSS"],
+  "isActive": true
+};
+console.log("Using for...in loop:");
+for (let key in sampleJSON) {
+  console.log(`${key}: ${sampleJSON[key]}`);
+}

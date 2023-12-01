@@ -1,0 +1,73 @@
+{
+  "basics": {
+    "name": "N.PONKARTHICK",
+    "email": "ponkarthick444@gmail.com",
+    "phone": "8098959648",
+    "degree": "B.SC Computer Science",
+    "website": "https://github.com/ponkarthick7",
+    "summary": "full stack developer, cloud management.",
+    "location": {
+      "address": "11/12 , senthamil nagar, sivagangai",
+      "postalCode": "630561",
+      "city": "sivagangai",
+      "countryCode": "+91",
+      "region": "INDIA)"
+    },
+    "profiles": [
+      {
+        "network": "LinkedIn, Twitter",
+        "username": "ponkarthick7",
+        "url": "https://github.com/ponkarthick7"
+      }
+    ]
+  },
+  "work": [
+    {
+      "company": "TCS ion",
+      "position": "Network admin",
+      "startDate": "11-12-2022",
+      "summary": "Monitoring network performance, analyzing data traffic, and optimizing network resources for efficiency.",
+      "highlights": [
+        "Experienced in collaborating with cross-functional teams to implement scalable solutions that meet organizational needs."
+      ]
+    }
+  ],
+  
+  "education": [
+    {
+      "institution": "alagappa University",
+      "area": "karaikudi",
+      "studyType": "Regular",
+      "startDate": "14-04-2017",
+      "endDate": "05-05-2020",
+      "gpa": "7.2",
+      "courses": [
+        ""
+      ]
+    }
+  ],
+  
+  "skills": [
+    {
+      "name": "Full stack developer",
+      "level": "intermediate",
+      "keywords": [
+        "Java', 'C++', python , UI/UX , Database, frontend , backend, HTML, css )"
+      ]
+    }
+  ],
+  "languages": [
+    {
+      "language": "English",
+      "fluency": "intermediate"
+    }
+  ],
+  "interests": [
+    {
+      "name": "sports , reading tha books , games",
+      "keywords": [
+        "Cricket', 'Football', 'Golf')"
+      ]
+    }
+  ]
+}
